@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BlastTower
+comment0.text=\n\ Write\ a\ description\ of\ class\ BlastTower\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=BlastTower()
+comment2.params=angle
+comment2.target=void\ fire(int)
+comment3.params=
+comment3.target=BlastTower\ clone()
+comment4.params=
+comment4.target=void\ upgrade()
+numComments=5

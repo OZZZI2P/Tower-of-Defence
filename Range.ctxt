@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Range
+comment0.text=\n\ Write\ a\ description\ of\ class\ Range\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Range()
+comment2.params=_size
+comment2.target=Range(int)
+comment3.params=_size\ c
+comment3.target=Range(int,\ greenfoot.Color)
+comment4.params=
+comment4.target=void\ setImage()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ Range\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment5.params=transparency
+comment5.target=void\ setImage(double)
+comment6.params=
+comment6.target=Enemy\ target()
+numComments=7
